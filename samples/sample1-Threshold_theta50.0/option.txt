@@ -1,0 +1,6 @@
+case_file:	case.txt
+control_file:	control.txt
+random_seed:	1
+candidates:	10
+order:	1-5
+boolean_expression:	10
